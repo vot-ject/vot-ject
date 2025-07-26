@@ -5,6 +5,19 @@
 - Composer 2.8
 - Node.js 22
 
+### Clone Repository
+
+```bash
+git clone -b dev https://github.com/vot-ject/vot-ject.git
+```
+
+or with ssh. [read this](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
+```bash
+git clone -b dev git@github.com:vot-ject/vot-ject.git
+```
+
+
 ### Installation
 
 1. Install dependencies and build assets:
