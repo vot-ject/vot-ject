@@ -17,7 +17,6 @@ or with ssh. [read this](https://docs.github.com/en/authentication/connecting-to
 git clone -b dev git@github.com:vot-ject/vot-ject.git
 ```
 
-
 ### Installation
 
 1. Install dependencies and build assets:
@@ -45,6 +44,22 @@ php artisan key:generate
 
 ### Running the Project
 
+To start the development server, run the following command.
+
 ```bash
 composer run dev
+```
+
+Alternatively, you can run the servers individually.
+
+In one terminal, run the PHP development server:
+
+```bash
+php artisan serve
+```
+
+In another terminal, run the Vite dev server:
+
+```bash
+npm run dev
 ```
