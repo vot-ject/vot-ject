@@ -1,5 +1,11 @@
 ## Developer Setup
 
+### Fork the repository
+
+<img width="416" height="54" alt="image" src="https://github.com/user-attachments/assets/dde9b9a5-5caa-4c04-af89-695c7a00de36" />
+
+<img width="732" height="557" alt="image" src="https://github.com/user-attachments/assets/edec7cc3-8f3c-4a2a-aed8-631cfc396c68" />
+
 ### Dependencies
 - PHP ^8.2
 - Composer 2.8
