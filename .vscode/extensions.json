@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "mhutchie.git-graph",
+        "icrawl.discord-vscode",
+        "devsense.phptools-vscode",
+        "laravel.vscode-laravel",
+        "shufo.vscode-blade-formatter",
+        "onecentlin.laravel5-snippets",
+    ]
+}
