@@ -23,6 +23,7 @@ git clone -b dev git@github.com:vot-ject/vot-ject.git
 1. Install dependencies and build assets:
 
 ```bash
+cd vot-ject
 composer install
 npm install
 npm run build
