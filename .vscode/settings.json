@@ -1,0 +1,9 @@
+{
+    "git.autofetch": true,
+    "[php]": {
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    },
+    "[blade]": {
+        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+    }
+}
