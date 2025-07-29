@@ -1,7 +1,7 @@
 {
     "git.autofetch": true,
     "[php]": {
-        "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
     },
     "[blade]": {
         "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
